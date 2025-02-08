@@ -20,5 +20,8 @@ Which reflect major of my experience in AIML
 4. **Project of Prediction Model with Data Visualization and following proper SDLC**
 [Heart Disease Prediction](https://github.com/brittybidari/FashionRecSys.git)
 
+5. **Data Mining on Web Scrapped Data and Visualization**
+[Stock Data Analysis using Data Mining and Visualization](https://github.com/brittybidari/DataMining.git)
+
 The data resources are from Kaggle.
 
