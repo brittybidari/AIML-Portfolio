@@ -9,7 +9,7 @@ I have created this repository which is inventory of all my Artificial Intellige
 Which reflect major of my experience in AIML
 
 1. **My Research Work in AI**
-https://github.com/brittybidari/MachineLearning/blob/d8c31db9dafd401fe13c7b37faab3114be97bfa9/README.md
+[My Compilation](https://github.com/brittybidari/MachineLearning/blob/d8c31db9dafd401fe13c7b37faab3114be97bfa9/README.md)
 
 2. **Project of Implementation of Generative AI**
 [Generative AI Model](https://github.com/brittybidari/GenerativeAI.git)
